@@ -5,7 +5,7 @@
       
 Here are some ideas to get you started
 -->
-Hello, My name is Shenang Tamang.I am intrested in Networking and and playing with Linux machines.
+Hello, My name is Shenang Tamang. I am intrested in Networking and and playing with Linux machines.
 
 - 🔭 I’m currently working as a Network and System Administrator
 - 🌱 I’m currently learning DevOps
